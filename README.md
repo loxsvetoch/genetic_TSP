@@ -16,6 +16,13 @@
   - Настраивать параметры генетического алгоритма (размер популяции, число поколений, вероятность мутаций и т.д.).
   - Отображать таблицу смежности.
   - Сравнивать эффективность различных типов мутаций.
+## Скриншоты
+
+![image](https://github.com/user-attachments/assets/85da7fc5-fff6-4fef-9d47-c3e9846c60de)
+
+![image](https://github.com/user-attachments/assets/68904b71-ec1a-4448-a64b-c99614d3b749)
+
+![image](https://github.com/user-attachments/assets/dac1f6d7-3b4e-44d2-80d3-330b65f458a2)
 
 ## Требования
 
