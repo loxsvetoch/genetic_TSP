@@ -24,8 +24,8 @@
 ## Установка
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    git clone https://github.com/loxsvetoch/genetic_TSP
+    cd genetic_TSP
     
     python -m venv venv
     source venv/bin/activate    # для Linux/macOS
